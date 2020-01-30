@@ -1,4 +1,4 @@
-# Predicting-the-Critical-Temperature-of-a-Superconductor
+# Predicting the Critical Temperature of a Superconductor
 
 Superconductivity is a phenomenon of exactly zero electrical resistance and expulsion of magnetic flux
 fields occurring in certain materials, called superconductors, when cooled below a characteristic critical
